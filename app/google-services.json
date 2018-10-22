@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "426458097257",
+    "firebase_url": "https://maptest-9d265.firebaseio.com",
+    "project_id": "maptest-9d265",
+    "storage_bucket": "maptest-9d265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426458097257:android:23cd4b5d3b0661ad",
+        "android_client_info": {
+          "package_name": "com.eniso.nesrine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426458097257-etb7anbhbl1kpbnl7aj6f58sdjcj343f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7zA5LK6hECk7uoBcGUlQjo5lBe17YPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426458097257:android:a5e8bc9211341bee",
+        "android_client_info": {
+          "package_name": "eniso.bac.nesrine.mapapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426458097257-ci7rvi0g2a874s2g8dt4ucto9uk3dl1s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "eniso.bac.nesrine.mapapi",
+            "certificate_hash": "58a720861ae967242949037b4de80e582f3d7a91"
+          }
+        },
+        {
+          "client_id": "426458097257-etb7anbhbl1kpbnl7aj6f58sdjcj343f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7zA5LK6hECk7uoBcGUlQjo5lBe17YPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "426458097257-etb7anbhbl1kpbnl7aj6f58sdjcj343f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

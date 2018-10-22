@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "426458097257",
+    "firebase_url": "https://maptest-9d265.firebaseio.com",
+    "project_id": "maptest-9d265",
+    "storage_bucket": "maptest-9d265.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:426458097257:android:23cd4b5d3b0661ad",
+        "android_client_info": {
+          "package_name": "com.eniso.nesrine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "426458097257-etb7anbhbl1kpbnl7aj6f58sdjcj343f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT7zA5LK6hECk7uoBcGUlQjo5lBe17YPs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
